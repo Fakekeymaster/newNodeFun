@@ -1,0 +1,19 @@
+{
+  "name": "backend_paraas",
+  "version": "1.0.0",
+  "description": "first project in macOS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "index"
+  ],
+  "author": "PARAS LEELA",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
